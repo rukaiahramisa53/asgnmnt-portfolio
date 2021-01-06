@@ -1,0 +1,155 @@
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 30px;
+    
+
+}
+h1{
+    font-size: 60px;
+    color: rgb(0, 0, 37);
+
+}
+h2{
+    color: rgb(0, 0, 37);
+}
+h3{
+    color: rgb(0, 0, 37) ;
+
+}
+h4{
+    color:  rgb(0, 0, 37);
+}
+h5{
+    color:  rgb(0, 0, 37);
+}
+h6{
+    color:  rgb(0, 0, 37);
+}
+.colors{
+    color: rgb(235, 8, 53);
+}
+.half{
+    width: 40%;
+    float:left;
+    margin-left: 5%;
+    padding-left: 2%;
+
+
+}
+.half img{
+    width: 100%;
+
+}
+.button{
+    font-weight: 600;
+    color: white;
+    text-decoration: none;
+    background-image: linear-gradient(45deg,rgba(17, 128, 148, 0.616),rgba(89, 84, 155, 0.753));
+    padding: 10px 30px;
+    border-radius: 10px;
+    width: 50px;
+    height: 30px;
+}
+section{
+        padding-bottom: 180px;
+        height: 500px;
+}
+.sin{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 50%;
+}
+.third{
+    background-color:rgba(245, 245, 245, 0.719);
+    text-align: center;
+    margin-top: 50px;
+
+}
+.onet{
+   
+        width: 30%;
+        float:left;
+        margin-left: 2%;
+        padding-left: 1%;
+        background-color: white;
+        margin-top:150px;
+
+
+        
+    
+}
+img{
+    max-width: 100% ;
+}
+
+.para{
+    text-align: left;
+    color:rgb(0, 0, 37) ;
+}
+.imageb{
+
+  background-image: url(image/back.png);
+  background-size:contain;
+  overflow: hidden;
+  background-repeat: no-repeat;
+  width: 80%;
+  height: 300px;
+  margin: 50px;
+  padding: 50px;
+
+}
+.white{
+    color: white;
+}
+
+.buttons{
+    font-weight: 600;
+    color: white;
+    text-decoration: none;
+    background-image:linear-gradient(45deg,lightsalmon,tomato);
+    padding: 10px 30px;
+    border-radius: 10px;
+    width: 50px;
+    height: 30px;
+
+}
+footer{
+    text-align: center;
+    padding-bottom: 160px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#frst{
+    border-left: 7px solid;
+    border-image: linear-gradient(rgb(228, 6, 117),rgb(156, 0, 47));
+    border-image-slice: 1;
+    background-color: white;
+}
+#scnd{
+    border-left: 7px solid;
+    border-image: linear-gradient(rgb(11, 143, 167),rgb(35, 13, 131));
+    border-image-slice: 1;
+    background-size: 50%;
+}
+.box{
+    background-image: url("image/back.png");
+    padding: 200px 100px ;
+  
+    background-repeat: no-repeat;
+}
